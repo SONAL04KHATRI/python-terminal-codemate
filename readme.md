@@ -114,17 +114,21 @@ Command history + autocomplete
 
 Web-based terminal UI
 
-🤝 Contributing
-Pull requests are welcome!
-If you have an idea for a new command, create a file in commands/ and extend the Command base class.
+🔮 Optional Enhancements
+- AI-driven terminal (natural language → commands)
+- Command history + autocomplete
+- Web-based terminal UI
 
-⭐ Support
-If you like this project:
+🤝 Contributing  
+Pull requests are welcome!  
+If you have an idea for a new command, create a file in `commands/` and extend the `Command` base class.  
 
-⭐ Star this repo on GitHub
+⭐ Support  
+If you like this project:  
+- ⭐ Star this repo on GitHub  
+- 🍴 Fork it and build your own commands  
+- 🔗 Share it with your friends!  
 
-🍴 Fork it and build your own commands
+<p align="center">Made with ❤️ during the CodeMate Hackathon</p>
 
-🔗 Share it with your friends!
 
-<p align="center"> Made with ❤️ during the CodeMate Hackathon </p> ```
