@@ -82,7 +82,7 @@ Used: 7.71GB (48%)
 
 /> exit
 Exiting terminal...
-🎥 Watch the full demo video here
+🎥 Watch the full demo video here:-https://youtu.be/4gbZSLhGlEI
 
 📂 Project Structure
 arduino
@@ -130,5 +130,6 @@ If you like this project:
 - 🔗 Share it with your friends!  
 
 <p align="center">Made with ❤️ during the CodeMate Hackathon</p>
+
 
 
